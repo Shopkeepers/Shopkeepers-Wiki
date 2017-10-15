@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Shopkeepers/Shopkeepers/wiki/images/logos/shopkeepers_logo_small_with_text.png?raw=true" alt="Shopkeepers logo"/>
+  <img src="https://github.com/Shopkeepers/Shopkeepers-Wiki/wiki/images/logos/shopkeepers_logo_small_with_text.png?raw=true" alt="Shopkeepers logo"/>
 </p>
 
 ## Welcome to the Shopkeepers wiki!
