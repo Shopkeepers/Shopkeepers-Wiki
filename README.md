@@ -6,6 +6,8 @@
 
 You are nearly there! You can find the Shopkeepers wiki [here](https://github.com/Shopkeepers/Shopkeepers-Wiki/wiki).
 
-**BukkitDev Page**: http://dev.bukkit.org/bukkit-plugins/shopkeepers/  
+**BukkitDev Page**: https://dev.bukkit.org/projects/shopkeepers  
+**Wiki**: https://github.com/Shopkeepers/Shopkeepers-Wiki/wiki  
 **Issue Tracker**: https://github.com/Shopkeepers/Shopkeepers/issues  
+**Discord Server**: https://discord.gg/d9NKd5z  
 **Source code**: https://github.com/Shopkeepers/Shopkeepers/  
